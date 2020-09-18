@@ -1,0 +1,11 @@
+#dogs, #hippopotamus, #sloths {
+  display: none;
+};
+
+.img {
+  margin: auto;
+  width: 20%;
+  height: 20%;
+  display:block;
+}
+
